@@ -80,5 +80,4 @@ Badminton • Reading Books • Listening to Podcasts & Music • Dancing
 
 📫 **Contact Me**  
 📧 [aryandeveloper41@gmail.com](mailto:aryandeveloper41@gmail.com)  
-📱 +91 7296967119
 
