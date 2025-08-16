@@ -39,7 +39,7 @@ VS Code • Git & GitHub • Postman
 
 ## 💼 Projects
 
-### [Study-Notion]([https://ed-tech-frontend-y3sn.vercel.app/])
+### [Study-Notion](https://ed-tech-frontend-y3sn.vercel.app/)
 An Ed-tech platform where students can purchase and access courses while instructors manage and track enrollments.
 
 > **Stack:** JavaScript, Node.js, React, MongoDB
