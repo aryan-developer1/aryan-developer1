@@ -10,7 +10,7 @@
 
 I'm a Full Stack Developer with **1 year of professional experience**, skilled in both frontend and backend development. I enjoy solving complex problems and love building things from the ground up—from landing pages to complete SaaS platforms.
 
-Currently working at **Kriscent Techno Hub Pvt. Ltd.**, where I’ve:
+Currently working at **Cat Hospitality LLP**, where I’ve:
 
 - 🛠 Built a SaaS Delivery Management Tool end-to-end
 - ⚙️ Architected scalable backend systems
